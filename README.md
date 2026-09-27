@@ -124,3 +124,4 @@ For each of the five stocks, the script produces fitted-variance plots against s
 ├── Assignment 3 Data.R                      # ECON 423: ARCH/GARCH volatility modelling
 └── README.md
 ```
+
